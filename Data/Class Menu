@@ -1,7 +1,7 @@
 class Menu:
     def __init__(self):
         self.data_pegawai = DataPegawai()
-````python
+
     def tampilkan_menu(self):
         while True:
             print("\nMenu:")
