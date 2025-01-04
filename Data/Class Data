@@ -1,4 +1,3 @@
-````python
 def tambah(self, pegawai: Pegawai):
         self.data_pegawai.append(pegawai)
         print(f'Data {pegawai.nama} berhasil ditambahkan')
@@ -28,4 +27,4 @@ def tambah(self, pegawai: Pegawai):
                 pegawai.departemen = departemen
                 print(f"Data {nama} berhasil diubah")
                 return
-````
+
