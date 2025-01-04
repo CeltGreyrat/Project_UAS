@@ -12,28 +12,28 @@ Sistem Manajemen Pegawai adalah program Python yang dirancang untuk mengelola da
 
 ## Struktur Program
 ### Pegawai : Mewakili pegawai perseorangan.
-- Atribut:
-nama: Nama karyawan.
-alamat: Alamat karyawan.
-departemen: Departemen karyawan.
-- Metode:
-__str__: Mengembalikan representasi string karyawan yang diformat.
+#### Atribut:
+- nama: Nama karyawan.
+- alamat: Alamat karyawan.
+- departemen: Departemen karyawan.
+#### Metode:
+- __str__: Mengembalikan representasi string karyawan yang diformat.
 
 ### DataPegawai: Mengelola kumpulan objek Pegawai.
-- Atribut:
-data_pegawai: Daftar yang menyimpan catatan karyawan.
-Metode:
-tambah: Menambahkan karyawan baru ke daftar.
-lihat: Menampilkan semua catatan karyawan.
-hapus: Menghapus catatan karyawan berdasarkan nama.
-ubah: Memperbarui alamat dan departemen karyawan.
+#### Atribut:
+- data_pegawai: Daftar yang menyimpan catatan karyawan.
+#### Metode:
+- tambah: Menambahkan karyawan baru ke daftar.
+- lihat: Menampilkan semua catatan karyawan.
+- hapus: Menghapus catatan karyawan berdasarkan nama.
+- ubah: Memperbarui alamat dan departemen karyawan.
 
 ### Menu: Menangani interaksi pengguna dan pengoperasian menu.
-- Metode:
-tampilkan_menu: Menampilkan menu dan memproses input pengguna.
-tambah_pegawai: Meminta pengguna untuk menambah karyawan baru.
-ubah_pegawai: Meminta pengguna untuk memperbarui karyawan yang ada.
-hapus_pegawai: Meminta pengguna untuk menghapus karyawan.
+#### Metode:
+- tampilkan_menu: Menampilkan menu dan memproses input pengguna.
+- tambah_pegawai: Meminta pengguna untuk menambah karyawan baru.
+- ubah_pegawai: Meminta pengguna untuk memperbarui karyawan yang ada.
+- hapus_pegawai: Meminta pengguna untuk menghapus karyawan.
 
 ## Code Program
 ````python
