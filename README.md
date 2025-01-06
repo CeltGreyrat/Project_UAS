@@ -1,5 +1,8 @@
 # Sistem Managemen Pegawai
 
+## Link Youtube 
+https://youtu.be/Khdsq94yRj0?si=iq5ldR50KQp2kIeN
+
 ## Penjelasan
 Sistem Manajemen Pegawai adalah program Python yang dirancang untuk mengelola data karyawan secara efisien. Ini memungkinkan pengguna untuk menambah, melihat, memperbarui, dan menghapus catatan karyawan. Program ini dibangun menggunakan prinsip Pemrograman Berorientasi Objek (OOP), yang mengedepankan modularitas dan kemudahan pemeliharaan.
 
